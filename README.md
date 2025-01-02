@@ -7,7 +7,7 @@
 I just love <strong>bold text</strong>.
 This text is <strong><em>really important</em></strong>.
 <ol>
-   First item
+   <li>First item</li>
   Second item
   <li>Third item</li>
   <li>Fourth item</li>
